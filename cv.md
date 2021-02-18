@@ -57,5 +57,26 @@
     </section>
 
 ```
-6. 
+6. I studied on Udemy Platform: 
+    * _Web-developer 2021_;
+    * _Javascript Essentials_.
+
+    I finished lessons on HTML Academy and Code Academy _'Basics of HTML and CSS'_.
+
+    My training projects:
+    * [Uber]();
+    * [Wordpress]();
+    * [Puls]();
+    * [Portfolio]();
+
+7. Graduated the **Belarussian National Technical University**, engineer-builder by profession. 
+On the basis of the BNTU I get a profession economist-manager.
+Online course _Web-developer 2021_, _Javascript Essentials_, _'Basics of HTML and CSS'_.
+
+8. I'm learning English. 
+Now the level of knowledge is B2.
+I improved my conversational skills the best while I was living in Italy for a month. 
+
+
+
 
