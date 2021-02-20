@@ -3,9 +3,9 @@
     * Telegram: [@Verona_Ten](https://t.me/Verona_Ten);
     * GitHub: [veronaten](https://github.com/veronaten)
     * Email: verona.binko@gmail.com;
-3. My goal is to successfully complete my studies at   the **RS School** and get into the top-100 rating of students! After a deep understanding of the profession, become a mentor at the **RS School** and help other people learn.
+3. My goal is to successfully complete my studies at the **RS School** and get into the top-100 rating of students! After a deep understanding of the profession, become a mentor at the **RS School** and help other people learn.
 
-    My strengths: 
+   My strengths: 
     * I am _determind_;
     * I am _responsible_ and _executive_;
     * I am _cheerful_ and _responsive_;
@@ -15,8 +15,8 @@
     * I _don't leave things half-done_;
     * I love _to learn something new_.
 
-    Despite the fact that I have no experience in the **IT** field, I set myself high goals. I have been studying independently for almost a year now.
-    I am inspired by the opportunity to study at the **RS School** and build my future in the **IT** field!
+   Despite the fact that I have no experience in the **IT** field, I set myself high goals. I have been studying independently for almost a year now.
+   I am inspired by the opportunity to study at the **RS School** and build my future in the **IT** field!
 
 4. My skills:
     * Methodology BEM;
@@ -61,7 +61,7 @@
     * _Web-developer 2021_;
     * _Javascript Essentials_.
 
-    I finished lessons on HTML Academy and Code Academy _'Basics of HTML and CSS'_.
+   I finished lessons on HTML Academy and Code Academy _'Basics of HTML and CSS'_.
 
     My training projects:
     * [Uber]();
@@ -69,7 +69,7 @@
     * [Puls]();
     * [Portfolio]();
 
-7. Graduated the **Belarussian National Technical University**, engineer-builder by profession. 
+7. Graduated the **Belarussian National Technical University**,  engineer-builder by profession. 
 On the basis of the BNTU I get a profession economist-manager.
 Online course _Web-developer 2021_, _Javascript Essentials_, _'Basics of HTML and CSS'_.
 
