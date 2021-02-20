@@ -63,7 +63,7 @@
 
    I finished lessons on HTML Academy and Code Academy _'Basics of HTML and CSS'_.
 
-    My training projects:
+   My training projects:
     * [Uber]();
     * [Wordpress]();
     * [Puls](https://github.com/veronaten/Puls);
