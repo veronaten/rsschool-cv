@@ -66,8 +66,9 @@
     My training projects:
     * [Uber]();
     * [Wordpress]();
-    * [Puls]();
-    * [Portfolio]();
+    * [Puls](https://github.com/veronaten/Puls);
+    * [Portfolio](https://github.com/veronaten/Portfolio);
+    * [Answer](https://github.com/veronaten/Answer);
 
 7. Graduated the **Belarussian National Technical University**,  engineer-builder by profession. 
 On the basis of the BNTU I get a profession economist-manager.
